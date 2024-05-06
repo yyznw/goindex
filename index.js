@@ -7,8 +7,8 @@ var authConfig = {
     "theme" : "material", // material  classic 
     "client_id": "202264815644.apps.googleusercontent.com",
     "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": "1//0fcSNkGpdR3MdCgYIARAAGA8SNwF-L9IryPOadp852KnW7F1MochzAy6snmeueARXUnKgwgkWTcGYKK_XARXY3EKX0GdWqKWcdAs", // 授权 token
-    "root": "0ABZzkJ02xzy3Uk9PVA" // 根目录ID
+    "refresh_token": "", // 授权 token
+    "root": "" // 根目录ID
 };
 
 var gd;
